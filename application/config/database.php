@@ -49,20 +49,32 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
+$db['default']['username'] = 'dbo509874490';
+$db['default']['password'] = 'Cr@zy8s';
+$db['default']['database'] = 'db509874490';
 $db['default']['dbdriver'] = 'mysql';
-$db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
 $db['default']['db_debug'] = TRUE;
 $db['default']['cache_on'] = FALSE;
 $db['default']['cachedir'] = '';
 $db['default']['char_set'] = 'utf8';
 $db['default']['dbcollat'] = 'utf8_general_ci';
-$db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
+
+$db['live']['hostname'] = 'db509874490.db.1and1.com';
+$db['live']['username'] = 'dbo509874490';
+$db['live']['password'] = 'Cr@zy8s';
+$db['live']['database'] = 'db509874490';
+$db['live']['dbdriver'] = 'mysql';
+$db['live']['pconnect'] = TRUE;
+$db['live']['db_debug'] = TRUE;
+$db['live']['cache_on'] = FALSE;
+$db['live']['cachedir'] = '';
+$db['live']['char_set'] = 'utf8';
+$db['live']['dbcollat'] = 'utf8_general_ci';
+$db['live']['autoinit'] = TRUE;
+$db['live']['stricton'] = FALSE;
 
 
 /* End of file database.php */
