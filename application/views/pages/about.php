@@ -1,6 +1,6 @@
 
 <h2>About</h2>
 
-<div>
-    Someday you will know...
-</div>
+<p>
+    Working on it...
+</p>

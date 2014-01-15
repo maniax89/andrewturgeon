@@ -7,3 +7,7 @@
     <p><a href="news/<?php echo $news_item['slug'] ?>">View article</a></p>
 
 <?php endforeach ?>
+
+<p>
+	<a href="<?php echo SCRIPT_ROOT; ?>/news/create">Create New Article</a>
+</p>

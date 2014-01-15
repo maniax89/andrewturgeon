@@ -10,6 +10,7 @@
     <label for="text">Text</label>
     <textarea name="text"></textarea><br />
     
+	<br />
     <input type="submit" name="submit" value="Create news item" />
 
 </form>

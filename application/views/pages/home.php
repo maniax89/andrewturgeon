@@ -1,6 +1,6 @@
 
-<h2>Welcome to my site</h2>
+<h2>Welcome</h2>
 
-<div>
-    Hi pretty!
-</div>
+<p>
+    Still working on designing and implementing the site, check back again soon!
+</p>

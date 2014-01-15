@@ -2,7 +2,40 @@ body
 {
     font-size:12pt;
     font-family: 'Corbel';
-    background-color: black;
-    color: white;
-    
+    background-color: #333333;
+    color: #E6E6E6;
+	margin-top:10px;
+}
+h1,h2
+{
+	color: #FF0000;
+}
+ul
+{
+	padding:0;
+}
+a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+a:visited
+{
+	color:#FFFFFF;
+}
+#wrapper
+{
+	margin:0 auto;
+	width:600px;
+}
+#main_container
+{
+	left:10%;
+	width:100%;
+}
+#main_nav li
+{
+	list-style-type:none;
+	display:inline;
+	padding-right: 10px;
 }
